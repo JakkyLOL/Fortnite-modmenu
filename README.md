@@ -20,6 +20,16 @@ FUTURES
 + Lag down (After you die you can set auto game leave crash or lag)
 + Name hider (Extremely banneble -You can change name in game-)
 
+MODS
+-----------
++ Spawn any car ( in development not tested)
++ give any gun in files
++ lag any players
++ spawn objects
++ kill all in game
++ nudes mode ( Every girl skin dont have clothing) xd
++ Large gun ( Huge guns!?)
+
 ANTIBAN
 ----------
 + Anti Hardware ban
